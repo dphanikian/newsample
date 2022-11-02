@@ -1,0 +1,7 @@
+
+
+hi i am creating the techinical notes in this txt file
+techinical knowledge on 
+ansible
+jenkins
+codecommit
